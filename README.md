@@ -15,6 +15,12 @@ Essas Perguntas/Respostas tem o intuito de ser uma base para entrevistas e candi
 
   <br/><br/>
 
+### Outros Repositórios (em inglês)
+
+[FrontEnd Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)<br/>
+[Vue.js Interview Questions](https://github.com/sudheerj/vuejs-interview-questions#what-is-vuejs)
+
+
 ## Junior
 
   
@@ -135,9 +141,9 @@ Essas Perguntas/Respostas tem o intuito de ser uma base para entrevistas e candi
 
 24.`O que é renderização progressiva?`<br/>
 
-25.`Para que servem os data- attributes?`<br/>
+25.`Para que servem os data-attributes?`<br/>
 
-26.`Explique a diferença entre funções between sincronas e assíncronas.`
+26.`Explique a diferença entre funções sincronas e assíncronas.`
 
 27.`Qual a diferença entre os métodos setTimeout e setInterval?`<br/>
 
@@ -150,7 +156,7 @@ Essas Perguntas/Respostas tem o intuito de ser uma base para entrevistas e candi
 
 
 ## Senior
-1.`O que é  “closure” no javascript? Cite um exemplo?`<br/>
+1.`O que é  "closure" no javascript? Cite um exemplo?`<br/>
 
 2.`Imperativo vs Funcional vs Programação Reativa.Explique`<br/>
 
@@ -174,7 +180,7 @@ Essas Perguntas/Respostas tem o intuito de ser uma base para entrevistas e candi
 
 12.`O que é o "HEAD" no Git?`<br/>
 
-13.`Quais são as diferenças entre continuous integration, continuous delivery, and continuous deployment?`<br/>
+13.`Quais são as diferenças entre continuous integration, continuous delivery e continuous deployment?`<br/>
 
 14.`Explique um caso de uso do  Docker`<br/>
 
